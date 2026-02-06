@@ -31,7 +31,7 @@
   --color-tableTextSubdued: #888888;                       /* Medium Gray */
   --color-tableTextSelected: #ffffff;                      /* Pure White */
   --color-tableTextHover: #ffffff;                         /* Pure White */
-  --color-tableTextInactive: #666666;                      /* Dim Gray */
+  --color-tableTextInactive: #ffffff;                         /* Pure White */
   --color-tableHeaderText: #ffffff;                        /* Pure White */
   --color-tableHeaderBackground: #2a2a2a;                  /* Medium Charcoal */
   --color-tableBorder: #2d2d2d;                            /* Dark Border */
@@ -48,13 +48,13 @@
   --color-numberNegative: #ff0000;                         /* Vivid Red */
   --color-numberNeutral: #888888;                          /* Medium Gray */
   --color-budgetNumberNegative: #ff0000;                   /* Vivid Red */
-  --color-budgetNumberZero: #888888;                       /* Medium Gray */
+  --color-budgetNumberZero: #d4d4d4;                       /* Light Gray */
   --color-budgetNumberNeutral: #d4d4d4;                    /* Light Gray */
   --color-budgetNumberPositive: #d4d4d4;                   /* Light Gray */
   --color-templateNumberFunded: #00ff7f;                   /* Neon Spring Green */
   --color-templateNumberUnderFunded: #00b3c4;              /* Cyan Blue */
   --color-toBudgetPositive: #00ff7f;                       /* Neon Spring Green */
-  --color-toBudgetZero: #2a2a2a;                           /* Medium Charcoal Gray */
+  --color-toBudgetZero: #888888;                           /* Medium Gray */
   --color-toBudgetNegative: #ff0000;                       /* Vivid Red */
   /* Specific Bubble Overrides */
   --color-budgetTableBudgetedBackground: #2a2a2a;          /* Medium Charcoal Gray */
@@ -66,7 +66,7 @@
   --color-sidebarBackground: #181818;                      /* Dark Gray */
   --color-sidebarItemBackgroundPending: #3a4759;           /* Muted Blue Gray */
   --color-sidebarItemBackgroundPositive: #1a3d2e;          /* Dark Forest Green */
-  --color-sidebarItemBackgroundFailed: #962d2d;             /* Muted Deep Red */
+  --color-sidebarItemBackgroundFailed: #962d2d;            /* Muted Deep Red */
   --color-sidebarItemAccentSelected: #00b3c4;              /* Cyan Blue */
   --color-sidebarItemBackgroundHover: #252525;             /* Hover Gray */
   --color-sidebarItemText: #999999;                        /* Muted Gray */
