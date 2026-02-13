@@ -52,7 +52,7 @@
   --color-budgetNumberNeutral: #d4d4d4;                    /* Light Gray */
   --color-budgetNumberPositive: #d4d4d4;                   /* Light Gray */
   --color-templateNumberFunded: #00ff7f;                   /* Neon Spring Green */
-  --color-templateNumberUnderFunded: #ffca28;              /* Bright Amber */
+  --color-templateNumberUnderFunded: #ffff00;              /* Electric Yellow */
   --color-toBudgetPositive: #00ff7f;                       /* Neon Spring Green */
   --color-toBudgetZero: #888888;                           /* Medium Gray */
   --color-toBudgetNegative: #ff0000;                       /* Vivid Red */
